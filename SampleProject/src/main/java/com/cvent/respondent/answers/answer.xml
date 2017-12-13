@@ -1,0 +1,6 @@
+<ANSWERS xmlns="http://schema.cvent.com/surveys/XMLSchema.xsd">
+    <Answer inner_qstn_text="A" answ_text="N/A" answ_tag_id="4"/>
+    <Answer inner_qstn_text="B" answ_text="1"/>
+    <Answer inner_qstn_text="C" answ_text="N/A" answ_tag_id="4"/>
+    <Answer inner_qstn_text="D" answ_text="3"/>
+</ANSWERS>

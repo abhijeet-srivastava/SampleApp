@@ -1,0 +1,5 @@
+<QUESTIONMCCheckbox xmlns="http://schema.cvent.com/surveys/QuestionDetail" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <choice id="6BD89ED7-53F9-47B6-9453-D4577937254A">Session 1</choice>
+    <choice id="EC296C9A-C2B5-4ADF-941A-FF90A4668073">Session 2</choice>
+</QUESTIONMCCheckbox>

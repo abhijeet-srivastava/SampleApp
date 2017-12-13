@@ -1,0 +1,127 @@
+{
+  "context": {
+    "application": "NORMANDY_CROSS_SURVEYS",
+    "userStub": "804d10e9-cfc0-40e4-b6b2-825d51bbfc52",
+    "userLogin": "(Cvent - a.srivastava) yshayesteh@cvent.com",
+    "accountId": 3279,
+    "canPublish": true,
+    "hasSecureFieldAccess": false,
+    "locale": "en-US",
+    "dateTimeFormat": "dd/MM/yyyy",
+    "timeZone": {
+      "id": 35,
+      "abbreviation": "ET",
+      "description": "(GMT-05:00) Eastern [US & Canada]",
+      "utcOffset": -300
+    },
+    "features": [
+      "ACCOUNT_3279",
+      "SURVEY_HAS_TIME",
+      "SURVEY_HAS_QUOTAS",
+      "SURVEY_HAS_SCORE",
+      "SURVEY_HAS_CHAPTER",
+      "SURVEY_HAS_EXPORT_VALUES",
+      "SHOWSAMPLES"
+    ],
+    "params": [
+      {
+        "name": "locale",
+        "value": "en-US"
+      },
+      {
+        "name": "localeId",
+        "value": 1033
+      },
+      {
+        "name": "dateFormat",
+        "value": "dd/mm/yy"
+      },
+      {
+        "name": "currentDate",
+        "value": "2017-04-12T08:24:36.8262577-04:00"
+      },
+      {
+        "name": "timezoneId",
+        "value": 35
+      },
+      {
+        "name": "timeZone",
+        "value": {
+          "id": 35,
+          "abbreviation": "ET",
+          "description": "(GMT-05:00) Eastern [US & Canada]",
+          "utcOffset": -300
+        }
+      },
+      {
+        "name": "environment",
+        "value": "L2"
+      },
+      {
+        "name": "crossSurveyStartDate",
+        "value": "2017-02-11T08:24:36.8262577-05:00"
+      }
+    ]
+  },
+  "criteria": {
+    "columns": [
+      "invited_by_id",
+      "survey_stub",
+      "reference_id",
+      "respondent_start_date",
+      "response_number_value",
+      "respondent_last_edit_date",
+      "survey_tl_stub",
+      "invited_date",
+      "respondent_status_id",
+      "locale_id",
+      "unsubscribed",
+      "cont_stub",
+      "respondent_stub",
+      "responded_through_id",
+      "respondent_first_unanswered_qstn_stub",
+      "respondent_ip",
+      "response_number",
+      "response_time",
+      "respondent_end_date"
+    ],
+    "expression": "",
+    "params": [
+      {
+        "name": "statusIds",
+        "value": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "name": "survey_stub",
+        "value": [
+          "7A51E48A-257D-416F-BDB2-0470B71F79B2",
+          "709459EE-DB73-426A-8DDF-09078137E0EF",
+          "03C2C9FB-930A-477B-B7FB-0A6107BD0F60",
+          "CB570A2F-586A-4150-84B4-0AD79EE054A8",
+          "8E1682D1-6A2D-4709-A3FD-0D1CDF160E14",
+          "A7497479-7269-466C-AAE2-13DFF1A7EA1A",
+          "4BFFDE79-9998-4B1A-A8CB-157058128D24",
+          "A43ED9CF-91AE-449F-BB37-157E578612EF",
+          "0B436241-E655-4F3B-8D8C-159C8963B17B",
+          "2C32A62D-5A02-4E7F-8F2E-159F97DF8CE5",
+          "73BFFCD9-1AA5-46D2-B5CF-15D0CE27F89E",
+          "C5A5E204-61F6-4E11-98CB-17305B7FBF9B",
+          "6500C631-F5D3-4F31-891F-1865DECDD6FD",
+          "CC2D65EE-8564-4400-80B7-1AA58E1ED9C1",
+          "ADDB3690-E750-4561-BEBE-1D9713CB23D2",
+          "D30A7B51-2415-4849-8E98-1EC0C97CD6D2",
+          "6CDCDA0E-B7FE-4D6E-8752-2602514EE038",
+          "9803EED8-2FA5-48C1-A033-2DBFEA0F1C89",
+          "FAC3DE55-96B9-4E31-81A4-3182A288636C",
+          "A75EB3CB-6541-4023-A01A-3271E97C832D"
+        ]
+      }
+    ]
+  }
+}

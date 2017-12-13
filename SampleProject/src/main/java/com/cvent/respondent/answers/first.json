@@ -1,0 +1,12 @@
+{
+  "userStub": "3edbbb82-1918-450d-bd4d-e4d998d5d7fa",
+  "entityType": "PORTAL_USER",
+  "admin": false,
+  "active": true,
+  "userType": {
+    "userType": "INDIVIDUAL"
+  },
+  "userEmailAddress": "a.srivastava@j.mail",
+  "firstName": "abhijeet",
+  "lastName": "srivastava"
+}

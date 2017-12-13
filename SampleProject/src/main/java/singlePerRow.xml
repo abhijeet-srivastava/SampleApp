@@ -1,0 +1,15 @@
+<QUESTIONNetPromoter xmlns="http://schema.cvent.com/surveys/QuestionDetail"
+                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+                     answer_disp_type_id="4" choice_sort_order_id="1">
+    <choice id="ff659eb8-f7cf-4370-9473-54a0a275a818">0</choice>
+    <choice id="d095a509-3b1a-45a9-8dc4-64fd7b86b443">1</choice>
+    <choice id="f7cfa2d5-4a0d-4989-931e-f8e2deb82f1c">2</choice>
+    <choice id="95b2091b-5524-4540-91a5-b79bca347ce5">3</choice>
+    <choice id="92bad2a4-a9cd-4b63-9ac2-3809ffaf682d">4</choice>
+    <choice id="1297e75d-d7e4-4934-9bf1-d4ff9926240f">5</choice>
+    <choice id="9ed5d312-a721-4d2e-87a8-305e1fb4769d">6</choice>
+    <choice id="005ed64c-535e-4fd3-b5a8-0db268704bdb">7</choice>
+    <choice id="22178737-988a-413b-90ab-b2cd4ea74368">8</choice>
+    <choice id="3496ef62-dbe6-479b-8cf4-5e4f0fc5231d">9</choice>
+    <choice id="e234f339-fadc-4de3-80de-aaee1b27d4bc">10</choice>
+</QUESTIONNetPromoter>
